@@ -1,0 +1,11 @@
+set(lupdate_project_file "D:/UdpCommunication/ReceiverPayload-V0/CMakeLists.txt")
+set(lupdate_translations "D:/UdpCommunication/ReceiverPayload-V0/ReceiverPayload-V0_en_IN.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "D:/UdpCommunication/ReceiverPayload-V0")
+set(lupdate_subproject1_include_paths "D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0_autogen/include;C:/Qt/6.12.0/mingw_64/include/QtCore;C:/Qt/6.12.0/mingw_64/include;C:/Qt/6.12.0/mingw_64/mkspecs/win32-g++;C:/Qt/6.12.0/mingw_64/include;C:/Qt/6.12.0/mingw_64/include/QtNetwork;C:/Qt/6.12.0/mingw_64/include")
+set(lupdate_subproject1_sources "D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0_autogen/mocs_compilation.cpp;main.cpp;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0.exe.manifest;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/ReceiverPayload-V0_translations.qrc;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0_en_IN.qm;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_ReceiverPayload-V0_translations.cpp;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0_autogen/timestamp;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0_en_IN.qm.rule;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_ReceiverPayload-V0_translations.cpp.rule;D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "D:/UdpCommunication/ReceiverPayload-V0/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ReceiverPayload-V0_autogen")

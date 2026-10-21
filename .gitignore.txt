@@ -1,0 +1,12 @@
+# Build directories
+build-*/
+*.user
+.vs/
+
+# Binaries
+debug/
+release/
+*.exe
+*.app/
+*.obj
+*.o
