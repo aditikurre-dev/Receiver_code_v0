@@ -1,0 +1,17 @@
+# Qt build files
+build/
+build-*/
+*.user
+*.user.*
+*.pro.user
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
